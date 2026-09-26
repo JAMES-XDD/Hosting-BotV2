@@ -567,8 +567,8 @@ except (TypeError, ValueError):
 BRAND       = "James Hosting Bot !!"
 BRAND_VER   = "v2.1"
 BRAND_TAG   = f"{BRAND} {BRAND_VER}"
-SUPPORT_USR = "@nur7871"
-UPDATE_CH   = "https://t.me/+MXtA9ufCgok3Yjc1"
+SUPPORT_USR = "@YouKnowMe_James"
+UPDATE_CH   = "https://t.me/JamesBotsNetwork"
 FOOTER      = f"\n\n<blockquote>{BRAND_TAG}</blockquote>"
 
 # ─── glyphs (smart contextual symbols + emojis for the UI) ──────
